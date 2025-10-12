@@ -61,14 +61,14 @@ Gosto de aprender continuamente, explorar novas tecnologias e aplicar **boas pr�
 
 ## 🧠 Frase que me representa
 
-> ✨ “Sempre em busca de evoluir — código limpo, escalável e com propósito.”
+> ✨ “Sempre em busca de evoluir - código limpo, escalável e com propósito.”
 
 ---
 
 ## 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-java)  
-📍 Manaus, AM – Brasil | 🌐 Aberto a oportunidades nacionais e internacionais
+📍 Manaus, AM – Brasil | 🌐 Disponível para oportunidades presenciais, híbridas ou remotas - no Brasil e internacionalmente.
 
 ---
 
