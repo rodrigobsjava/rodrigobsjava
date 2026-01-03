@@ -1,17 +1,22 @@
 # 👋 Olá, eu sou Rodrigo Barbosa de Sousa
 
 💻 **Desenvolvedor Java Backend & Full Stack**  
-🚀 Apaixonado por construir aplicações escaláveis, robustas e bem estruturadas.
+🚀 Apaixonado por construir aplicações **escaláveis, robustas e bem estruturadas**, com foco em boas práticas e qualidade de código.
 
 ---
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um desenvolvedor focado em backend com **Java** e **Spring Boot**, mas também atuo no desenvolvimento **Full Stack**.  
-Gosto de aprender continuamente, explorar novas tecnologias e aplicar **boas práticas de arquitetura e qualidade de código**.
+Sou desenvolvedor com foco em **Backend Java**, utilizando principalmente **Java, Spring Boot e Jakarta EE**, atuando também como **Full Stack** quando necessário.
 
-🌍 Atualmente estudando **Inglês** e **Francês** para ampliar minhas oportunidades internacionais.  
-🧭 Interesse especial em arquitetura de software, testes automatizados e segurança em APIs REST.
+Tenho interesse contínuo em:
+- Arquitetura de software e Clean Architecture  
+- Desenvolvimento de APIs REST seguras e bem documentadas  
+- Testes automatizados e qualidade de código  
+- Boas práticas, padrões de projeto e versionamento profissional  
+
+🌍 Atualmente estudando **Inglês** e **Francês**, visando oportunidades no mercado internacional.  
+🧭 Busco evolução constante rumo a posições de **Engenharia e Arquitetura de Software**.
 
 ---
 
@@ -52,6 +57,17 @@ Gosto de aprender continuamente, explorar novas tecnologias e aplicar **boas pr�
 
 ---
 
+## 📌 O que você encontrará neste GitHub
+
+- Projetos Backend com **Java + Spring Boot**
+- APIs REST seguindo boas práticas de mercado
+- Integração com bancos de dados relacionais
+- Testes unitários e de integração
+- Projetos Full Stack com **Angular** e **Thymeleaf**
+- Versionamento profissional com **Git e GitHub**
+
+---
+
 ## 📈 Estatísticas do GitHub
 
 ![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigobsjava&show_icons=true&theme=tokyonight)
@@ -61,15 +77,18 @@ Gosto de aprender continuamente, explorar novas tecnologias e aplicar **boas pr�
 
 ## 🧠 Frase que me representa
 
-> ✨ “Sempre em busca de evoluir - código limpo, escalável e com propósito.”
+> “Sempre em busca de evoluir — código limpo, escalável e com propósito.”
 
 ---
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-java)  
-📍 Manaus, AM – Brasil | 🌐 Disponível para oportunidades presenciais, híbridas ou remotas - no Brasil e internacionalmente.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-java)
+
+📍 Manaus, AM – Brasil  
+🌐 Disponível para oportunidades **presenciais, híbridas ou remotas**, no Brasil e internacionalmente.
 
 ---
 
-⭐ *Obrigado por visitar meu perfil! Explore meus projetos e contribuições.*  
+⭐ **Obrigado por visitar meu perfil!**  
+Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução técnica.
