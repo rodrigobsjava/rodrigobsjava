@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 # Rodrigo Barbosa de Sousa
