@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
+
 # Rodrigo Barbosa de Sousa
 
 Desenvolvedor com foco em backend utilizando Java e Spring Boot. Experiência prática na construção de APIs REST, autenticação com Spring Security e integração com banco de dados relacionais.
